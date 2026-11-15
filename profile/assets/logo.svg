@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Ticinuum">
+  <rect width="32" height="32" rx="7" fill="#0A0E14"/>
+  <!-- roadmap arc (dim, dashed) -->
+  <circle cx="16" cy="16" r="9" fill="none" stroke="#9BA8B8" stroke-width="2" stroke-dasharray="1.6 4" opacity="0.5"/>
+  <!-- today arc (solid teal, ~70%) -->
+  <circle cx="16" cy="16" r="9" fill="none" stroke="#2DD4BF" stroke-width="2.6" stroke-linecap="round"
+          stroke-dasharray="40 16.5" transform="rotate(-110 16 16)"/>
+  <!-- playhead -->
+  <circle cx="23.8" cy="11.5" r="2.7" fill="#5EEAD4"/>
+</svg>
