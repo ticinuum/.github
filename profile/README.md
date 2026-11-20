@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://ticinuum.com/media/explainer/">
-    <img src="assets/explainer-poster.jpg" alt="A frame from the explainer: intake feeds a ticket, the contract; agents read it on the read path and write progress, receipts and findings back on the write path, with a person holding the gate." width="100%">
+    <img src="assets/explainer-loop.gif" alt="The loop, animated: intent comes in through intake and becomes a ticket, the contract. Agents read it on the read path to plan, execute and observe, then write progress, receipts, findings and new tickets back on the write path, past a gate a person holds." width="100%">
   </a>
   <br>
   <sub><b><a href="https://ticinuum.com/media/explainer/">Watch the 1:47 explainer, with sound →</a></b> · <a href="assets/explainer.mp4">or get the video file</a></sub><br>
